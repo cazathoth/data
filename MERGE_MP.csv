@@ -9447,7 +9447,6 @@ FECHA (YYMMDD);HORA (HHMM);Registros validados;Registros preliminares;Registros 
 240912;0;;12;;LaSerena;20240912
 240913;0;;14;;LaSerena;20240913
 240914;0;;15;;LaSerena;20240914
-FECHA (YYMMDD);HORA (HHMM);Registros validados;Registros preliminares;Registros no validados;COMUNA;FECHA(YYYYMMDD)
 000101;0;15,3333;;;Santiago;20000101
 000102;0;16,0833;;;Santiago;20000102
 000103;0;19,2083;;;Santiago;20000103
